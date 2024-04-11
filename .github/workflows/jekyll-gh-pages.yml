@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   deploy:
-    uses: ${{ github.actor }}/ghp/.github/workflows/ghp.yml@main
+    uses: xrxfxt/ghp/.github/workflows/ghp.yml@main
